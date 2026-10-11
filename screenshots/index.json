@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "taxa",
+    "captured_at": "2026-10-11T194421",
+    "source_url": "https://www.taxatech.com",
+    "source_type": "Website",
+    "file": "taxa-2026-10-11T194421.png",
+    "bytes": 357179,
+    "capture": "playwright-local"
+  }
+]
